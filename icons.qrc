@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="background.png">icons/background_866x498.png</file>
+    <file alias="eye_off.png">icons/eye_off_39x41.png</file>
+    <file alias="eye_on.png">icons/eye_on_39x41.png</file>
+    <file alias="file.png">icons/file_650x651.png</file>
+    <file alias="lock.png">icons/lock_32x32.png</file>
+    <file alias="rocket.png">icons/rocket164x180.png</file>
+    <file alias="user.png">icons/user_32x32.png</file>
+    <file alias="zcool.png">icons/zcool_650x651.png</file>
+    <file alias="zhuan.png">icons/zhuan_650x651.png</file>
+
+    <file alias="menu.png">icons/menu_200x200.png</file>
+    <file alias="status.png">icons/status_200x200.png</file>
+    <file alias="datetime.png">icons/datetime_200x200.png</file>
+    <file alias="ip.png">icons/ip_200x200.png</file>
+  </qresource>
+</RCC>
